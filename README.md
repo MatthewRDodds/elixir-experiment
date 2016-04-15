@@ -40,4 +40,4 @@ export PATH="$PATH:/path/to/elixir/bin"
 
 ## Demo
 
-Build a small elixir demonstration of elixir working with react to render a react component server side.
+This demo project's goal is to render a hello world example using react.
